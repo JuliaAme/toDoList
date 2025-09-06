@@ -19,4 +19,3 @@ function generateTokens(payload) {
 
 module.exports = generateTokens;
 
-module.exports = generateTokens;
